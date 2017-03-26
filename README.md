@@ -1,2 +1,3 @@
-# weather-on-the-go
-a webpage thats gives weather information of any given entered city name
+# weather-webapp
+simple weather web-app made for tri hacker cup finals<br>
+- Disable protection for secure connection in firefox in order to make it work.
